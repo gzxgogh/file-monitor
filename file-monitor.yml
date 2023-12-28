@@ -1,0 +1,7 @@
+app:
+  name: "file-monitor"
+  listen: ":8350"
+
+logger:
+  path: logs
+  level: all
